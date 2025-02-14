@@ -1,2 +1,15 @@
-# My-Simple-Portfolio
-A minimal two-page portfolio website showcasing my work and providing an easy way to get in touch.  Home Page: Introduces me, my skills, and highlights some of my projects. Contact Page: Provides a contact form or links to my email and social media profiles for networking and collaboration.
+# My Portfolio Website
+
+This is a simple **two-page portfolio website** built to showcase my work and provide an easy way to connect with me.
+
+## 📌 Pages
+
+- **Home:** Introduction, skills, and featured projects.
+- **Contact:** Contact form and links to my social profiles.
+
+## 🚀 Technologies Used
+
+- HTML
+- CSS
+
+Feel free to explore and connect! 😊
